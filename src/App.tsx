@@ -7,7 +7,7 @@ export default function App() {
 
   // Handle controlled component input change
   const handleChange = (e) => {
-    setInputValue(e.target.value); // Update the state with the input value
+    setInputValue(e.target.value);
   };
 
   return (
